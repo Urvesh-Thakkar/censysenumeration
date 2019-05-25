@@ -10,13 +10,12 @@ Open Terminal
 Type gedit /etc/bash.bashrc
 Add the follwing lines at the end : 
 
-export CENSYS_API_SECRET=""
-export CENSYS_API_ID=""
+export CENSYS_API_SECRET="<your api secret that you got from your censys account>"
+export CENSYS_API_ID="<your censys api id>"
 
 
 
 - Check help menu
-
 $ python censys_enumeration.py --help                                                                                                 
 Usage: censys_enumeration.py [OPTIONS] FILE
 
