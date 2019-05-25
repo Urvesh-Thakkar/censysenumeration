@@ -1,5 +1,5 @@
 - Clone this repo
-$ git clone https://github.com/Urvesh-Thakkar/censysenumeration-
+$ git clone https://github.com/Urvesh-Thakkar/censysenumeration
 - Install dependencies
 $ pip install -r requirements.txt
 - Get Censys API ID and Censys API secret by creating a account on `https://censys.io`
