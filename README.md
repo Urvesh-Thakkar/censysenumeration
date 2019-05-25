@@ -27,7 +27,7 @@ Options:
   --help                          Show this message and exit.
   
   
-Usage
+Usage :=
 
 - Subdomain and email enumeration
 $ python censys_enumeration.py domains.txt
